@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="windows-1251"?>
+
+<string_table>
+    
+<!--
+Grizzly(coomer) mags
+-->
+
+	<string id="grizzly_mag_lee">
+		<text>Grizzly .357 Magazine</text>
+	</string>
+	<string id="grizzly_mag_lee_descr">
+		<text>
+            Variant of the Colt 1911 magazine modified to adapt the much longer .357 Magnum round. Only works with the Grizzly .357 handgun, which provides all the stopping power of the .357 Magnum cartridge in a compact package.
+		</text>
+	</string>
+
+	<string id="grizzly_mag_lee_ext">
+		<text>Extended Grizzly .357 Magazine</text>
+	</string>
+	<string id="grizzly_mag_lee_ext_descr">
+		<text>
+            Extended magazine modified to adapt the much longer .357 Magnum round. Only works with the Grizzly .357 handgun, which provides all the stopping power of the .357 Magnum cartridge in a compact package. Holds 12 Rounds.
+		</text>
+	</string>
+
+	<string id="nsc_mag_lee">
+		<text>Standard 15-round Nightsword Magazine</text>
+	</string>
+	<string id="nsc_mag_lee_descr">
+		<text>
+Standard magazine issued with the Colt 1911 Nightsword Custom handgun. This extended 15-round magazine is designed for smooth and reliable feeding, with a reinforced steel body and a low-profile black base plate for quick reloads. It bears a subtle "NSC" marking rather than any commercial logo. Outside the Zone, a single one of these could fetch the price of several surplus pistols, but within the Zone its worth is judged solely by its practicality making it valuable only to those who carry the Nightsword.		</text>
+	</string>
+
+
+
+	<string id="colt_mag_lee_ext_descr">
+		<text>
+		11-Round Extended Colt 1911 Magazine. Crafted from lightweight, blued steel with impact-resistant polymer.
+		</text>
+	</string>
+	
+
+</string_table>
