@@ -1,7 +1,7 @@
 # 🔫 MagsRedux Patch – Enhanced Handguns v1.2
 
 **A patch for [Meowietty’s Enhanced Handguns v1.2](https://github.com/Meowietty/Enhanced-Handguns-v1.2)**  
-Adds full **magazine system support** for new weapons and adjusts magazine stats, textures, and descriptions to better integrate with **MagsRedux**.
+Adds full **magazine system support** for new weapons and adjusts magazine stats, textures, and descriptions to better integrate with Reworked Pistols
 
 ---
 
